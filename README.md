@@ -1,6 +1,6 @@
 # Safe Traffic - Android App
 
-#### Video Demo [My project present](httpsyoutu.bew_kSpgqxxbs)
+#### Video Demo [My project present](https://youtu.be/w_kSpgqxxbs)
 
 #### Description
 Safe Traffic is an Android application designed to enhance road safety. It allows users to report incidents, rate drivers, and share comments about their experiences on the road. This project helps create awareness about traffic safety and encourages responsible driving.
